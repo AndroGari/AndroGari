@@ -5,7 +5,7 @@
 ✔ I’m looking to collaborate with any **Open - Source data science / Machine Learning projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I try to learn something new and then sleep till it is stored in the brain* 😎<br><br><br><br>
-Call me:  or TeamWorker 😊  
+   
 
 
 ## 🌐 Socials:
