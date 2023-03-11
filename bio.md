@@ -1,4 +1,4 @@
-![Garima Saroj Banner]
+![Garima Saroj Banner](https://github.com/AndroGari/AndroGari/blob/master/HEY%20THERE!.svg)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....
 ✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
