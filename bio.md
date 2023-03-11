@@ -1,12 +1,18 @@
-<img src="https://github.com/AndroGari/AndroGari/blob/master/me.gif" width="500px">
+<center><img src="https://github.com/AndroGari/AndroGari/blob/master/me.gif" width="500px"><\center>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....
-✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently getting on pace in my **open-source** journey<br>
-✔ I’m currently learning about **deep learning and NLP**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science / Machine Learning projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I try to learn something new and then sleep till it is stored in the brain* 😎<br><br><br><br>
+- Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
+   
+- I’m currently getting on pace in my **open-source** journey<br>
+   
+- I’m currently learning about **deep learning and NLP**🥰<br>
+   
+- I’m looking to collaborate with any **Open - Source data science / Machine Learning projects**<br>
+   
+- Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+   
+- Fun fact : *I try to learn something new and then sleep till it is stored in the brain* 😎<br><br><br><br>
+   
    
 
 
@@ -50,4 +56,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
