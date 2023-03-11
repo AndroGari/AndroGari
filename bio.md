@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+##<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....
 ✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently getting on pace in my **open-source** journey<br>
 ✔ I’m currently learning about **deep learning and NLP**🥰<br>
