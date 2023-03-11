@@ -37,7 +37,6 @@
 #  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Git Activeness
  
 ![](https://github-readme-stats.vercel.app/api?username=AndroGari&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndroGari&theme=highcontrast&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroGari&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
