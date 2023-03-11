@@ -5,13 +5,13 @@
    
 - I’m currently getting on pace in my **open-source** journey<br>
    
-- I’m currently learning about **deep learning and NLP**🥰<br>
+- I’m currently learning about **deep learning and NLP**<br>
    
 - I’m looking to collaborate with any **Open - Source data science / Machine Learning projects**<br>
    
-- Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+- Ask from me anything you want, If I am alive I will answer within seconds<br>
    
-- Fun fact : *I try to learn something new and then sleep till it is stored in the brain* 😎<br><br><br><br>
+- Fun fact : *I try to learn something new and then sleep till it is stored in the brain*<br><br><br><br>
    
    
 
