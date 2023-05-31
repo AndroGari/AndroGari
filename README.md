@@ -1,23 +1,17 @@
 <img src="https://github.com/AndroGari/AndroGari/blob/master/me.gif" width="600px">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....
-
-   
-<!-- - I’m currently getting on pace in my **open-source** journey<br>
-- I’m currently learning about **deep learning and NLP**<br> 
-- I’m looking to collaborate with any **Open - Source data science / Machine Learning projects**<br> 
-- Ask from me anything you want, If I am alive I will answer within seconds<br>
-- Fun fact : *I try to learn something new and then sleep till it is stored in the brain*<br><br>
- -->
 ## About me
-I am an AI/ML disciple with a strong academic background and hands-on experience. I am eager to work on state-of-the-art projects and have a proven track record of success. I am also a highly motivated and adaptable individual with a strong work ethic. I am actively seeking new opportunities in the field of software development and AI/ML.
+   
+- I’m currently getting on pace in my **open-source** journey
+- I’m currently learning about **deep learning and NLP**
+- I’m looking to collaborate with any **Open - Source data science / Machine Learning projects**
+- Ask from me anything you want, If I am alive I will answer within seconds
+- Fun fact : *I try to learn something new and then sleep till it is stored in the brain*
+<br>
+I am an AI/ML disciple with a strong academic background and hands-on experience. Eager to work on state-of-the-art projects, highly motivated and adaptable individual with a strong work ethic, actively seeking new opportunities in the field of software development and AI/ML.
 
 Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue:
-
-<!-- I'm Garima Saroj. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai).  and :coffee: lover. 
-
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.   -->
-
 
 ## Things I am passionate about
 
