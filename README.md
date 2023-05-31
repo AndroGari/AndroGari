@@ -45,7 +45,7 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 
 #  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Git Activeness
 [![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndroGari&theme=chartreuse-dark)](https://github.com/AndroGari/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroGari&theme=chartreuse-dark)](https://github.com/AndroGari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroGari&theme=chartreuse-dark&hide_progress=true)](https://github.com/AndroGari/github-readme-stats)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AndroGari&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
 
