@@ -47,10 +47,10 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 [![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndroGari)](https://github.com/AndroGari/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AndroGari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AndroGari&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
