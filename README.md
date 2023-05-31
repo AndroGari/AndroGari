@@ -23,23 +23,33 @@ Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue:
 
 # 💻 Tech Stack:
  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="[https://developer.android.com](https://www.tensorflow.org/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> 
-    </p>
-
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
+</p>
    
 
 #  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Git Activeness
 [![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndroGari&theme=chartreuse-dark&show_icons=true)](https://github.com/AndroGari/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroGari&theme=chartreuse-dark&layout=donut)](https://github.com/AndroGari/github-readme-stats)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AndroGari&theme=radical&no-frame=false&no-bg=true&margin-w=0)
-
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AndroGari&theme=radical&no-frame=false&no-bg=true&margin-w=0) -->
+<!-- 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark) -->
 
 ### 😂 Random Dev Meme
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
