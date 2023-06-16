@@ -3,6 +3,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....
 ## About me
    
+- Hello there folks! I'm Garima Saroj, an AI/ML maverick, astronomy aficionado, and an artistic extraordinaire.
+
 - I’m currently getting on pace in my **open-source** journey
 - I’m currently learning about **deep learning and NLP**
 - I’m looking to collaborate with any **Open - Source data science / Machine Learning projects**
