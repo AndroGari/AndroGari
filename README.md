@@ -1,7 +1,7 @@
 <img src="https://github.com/AndroGari/AndroGari/blob/master/me.gif" width="600px">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....
-## About me
+
    
 - Hello there folks! I'm Garima Saroj, an AI/ML maverick, astronomy aficionado, and an artistic extraordinaire.
 
