@@ -5,9 +5,8 @@
    
 - Hello there folks! I'm Garima Saroj, an AI/ML maverick, astronomy fan, and artistic extraordinaire.
 
-- I’m currently getting on pace in my **open-source** journey
 - I’m currently learning about **deep learning and NLP**
-- I’m looking to collaborate with any **Source data science / Machine Learning projects**
+- I’m looking to collaborate with any **Open Source Data Science / Machine Learning projects**
 - Ask me anything you want, If I am alive I will answer within seconds
 - Fun fact : *I try to learn something new and then sleep till it is stored in the brain*
 <br>
